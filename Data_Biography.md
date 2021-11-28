@@ -2,7 +2,7 @@
 
 ### Declaration of Authorship
 
-I, [insert your name], confirm that the work presented in this assessment is my own. Where information has been derived from other sources, I confirm that this has been indicated in the work.
+I, [Yinwen Zhu], confirm that the work presented in this assessment is my own. Where information has been derived from other sources, I confirm that this has been indicated in the work.
 
 [Yinwen Zhu]
 
@@ -52,11 +52,11 @@ Using these data can conduct in-depth discussions on the impact of Airbnb. These
 
 ### 7. Which of the uses presented in Q.6 are _ethical_?
 
-With reference to the ethics of these analyses, it appears that more consideration is given to data privacy in data collection, as mentioned above in the random reallocation of host locations for privacy protection. In addition, another point of ethics is that how these analyses reflect or explain some of the ethical issues that have arisen during the development of Airbnb. One of the most notable issues is that of social differentiation. As mentioned above, the growth of Airbnb in communities can lead to the displacement of disadvantaged groups, which will lead to class differentiation and gentrification in the community[6]. Many studies in this area have further explored the impact of its development on different groups of people and have criticized the injustice concealed by Airbnb on an ethical level. For example, Benjamin Edelman and Michael Luca compiled images, price, and rental quality information from every landlord in New York City. They discovered that non-black landlords charged greater rates than black landlords under identical conditions and further pointed out that racial discrimination against landlords is a serious problem[7]. Furthermore, studies have shown that, while Airbnb claims to benefit the middle class by transferring revenue to limited and more diverse neighborhoods, listings in ethnically diverse areas are typically low-rated and low-income, despite the fact that these areas have higher levels of engagement and exchange rates than high-income areas[8]. It is also suggested that race is a crucial dynamic aspect that influences participation and communication patterns in the sharing economy, as well as education. It is clear from these studies that while Airbnb's data may appear to be just housing statistics, we can use it to better understand the processes of racialization, bordering, gendering, and other social disparities, as well as to promote social and economic justice.
+With reference to the ethics of these analyses, it appears that more consideration is given to data privacy in data collection, as mentioned above in the random reallocation of host locations for privacy protection. In addition, another point of ethics is that how these analyses reflect or explain some of the ethical issues that have arisen during the development of Airbnb. One of the most notable aspect is social differentiation. As mentioned above, the growth of Airbnb in communities can lead to the displacement of disadvantaged groups, which will lead to class differentiation and gentrification in the community[6]. Many studies in this area have further explored the impact of its development on different groups of people and have criticized the injustice concealed by Airbnb on an ethical level. For example, Benjamin Edelman and Michael Luca compiled images, price, and rental quality information from every landlord in New York City. They discovered that non-black landlords charged greater rates than black landlords under identical conditions and further pointed out that racial discrimination against landlords is a serious problem[7]. Furthermore, studies have shown that, while Airbnb claims to benefit the middle class by transferring revenue to limited and more diverse neighborhoods, listings in ethnically diverse areas are typically low-rated and low-income, despite the fact that these areas have higher levels of engagement and exchange rates than high-income areas[8]. It is also suggested that race is a crucial dynamic aspect that influences participation and communication patterns in the sharing economy, as well as education. It is clear from these studies that while Airbnb's data may appear to be just housing statistics, we can use it to better understand the processes of racialization, bordering, gendering, and other social disparities, as well as to promote social and economic justice.
 
 ## Bibliography
 
-[1]    M. Cox and T. Slee. (2016). “How Airbnb’s data hide the facts in New York City.” Inside Airbnb [Online]. Available: http://www.nytimes.com/2015/12/02/technology/airbnb-releases-trove-of-new-york-city-home-sharing-data.ht
+[1]    M. Cox and T. Slee. (2016). “How Airbnb’s data hide the facts in New York City.” Inside Airbnb [Online]. Available: http://www.nytimes.com/2015/12/02/technology/airbnb-releases-trove-of-new-york-city-home-sharing-data.ht 
 
 [2]    D. Wachsmuth, D. Chaney, D. Kerrigan, A. Shillolo and R. Basalaev-Binder, "The high cost of short-term rentals in New York City." A report from the Urban Politics and Governance research group, School of Urban Planning, McGill University, 2018.
 
@@ -64,14 +64,11 @@ With reference to the ethics of these analyses, it appears that more considerati
 
 [4]    D. Lee, “How Airbnb Short-Term Rentals Exacerbate Los Angeles’s Affordable Housing Crisis: Analysis and Policy Recommendations.” Harv. L. & Pol'y Rev [Online]. 10 (2016): 229. Available: http://www.zillow
 
-[5]    G. Zervas, D. Proserpio, and J. W. Byers, “The rise of the sharing economy: Estimating the impact of airbnb on the hotel industry,” Journal of Marketing Research, vol. 54, no. 5, pp. 687–705, Oct. 2017, doi: 10.1509/jmr.15.0204.
+[5]    G. Zervas, D. Proserpio, and J. W. Byers, “The rise of the sharing economy: Estimating the impact of airbnb on the hotel industry.” Journal of Marketing Research, vol. 54, no. 5, pp. 687–705, Oct. 2017, doi: 10.1509/jmr.15.0204.
 
-[6]    D. Wachsmuth and A. Weisler, “Airbnb and the rent gap: Gentrification through the sharing economy,” Environment and Planning A, vol. 50, no. 6, pp. 1147–1170, Sep. 2018, doi: 10.1177/0308518X18778038.
+[6]    D. Wachsmuth and A. Weisler, “Airbnb and the rent gap: Gentrification through the sharing economy.” Environment and Planning A, vol. 50, no. 6, pp. 1147–1170, Sep. 2018, doi: 10.1177/0308518X18778038.
 
 [7]    B. Edelman, and M. Luca, "Digital discrimination: The case of Airbnb. com." Harvard Business School NOM Unit Working [Online]. Paper 14-054, 2014. Available: http://ssrn.com/abstract=2377353http://ssrn.com/abstract=2377353
 
 [8]    M. Cansoy, and J. Schor, “Who Gets to Share in the ‘Sharing Economy’: Understanding the Patterns of Participation and Exchangein Airbnb.” Unpublished Paper, Boston College, 1-28. 2016.
-
-
-## 
 
